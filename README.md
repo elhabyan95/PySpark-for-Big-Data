@@ -7,6 +7,6 @@ Using pyspark to perform some basic operations like:
 - data preparation ( impute nulls and outliers)
 - split data into train and test data
 - create a pipeline model that contains:
-   --VectorAssembler , StringIndexer , OneHotEncoder , LogisticRegression
+   VectorAssembler, StringIndexer, OneHotEncoder, and LogisticRegression
 - evaluate the model using ROC 
 
